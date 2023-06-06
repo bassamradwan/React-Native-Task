@@ -38,7 +38,7 @@ function App() {
           },
         })}
         tabBarOptions={{
-          activeTintColor: 'blue',
+          activeTintColor: '#3EBDAC',
           inactiveTintColor: 'gray',
         }}
       >
